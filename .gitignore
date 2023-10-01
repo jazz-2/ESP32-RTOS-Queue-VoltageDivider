@@ -1,0 +1,9 @@
+#ignore files
+
+*.gif
+*.png
+*.jpg
+
+#ignore directory
+
+Debug/
